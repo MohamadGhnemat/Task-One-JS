@@ -1,0 +1,12 @@
+.demo {
+  background-color: teal;
+  color: white;
+  padding: 20px;
+  width: fit-content;
+}
+.vip {
+  background-color: chartreuse;
+  color: blueviolet;
+  padding: 40px;
+  width: fit-content;
+}
